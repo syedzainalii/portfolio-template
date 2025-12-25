@@ -14,7 +14,7 @@ const ovo = OvoFont({
 });
 
 export const metadata = {
-  title: "Syed Zain Ali | Portfolio",
+  title: "Portfolio | Template",
   description: "Web Developer Portfolio",
 };
 
